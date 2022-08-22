@@ -1,0 +1,71 @@
+{
+	"FinishedCallsPage": {
+		"finishedCallsOverview": {
+			"totalCallsMade": 5,
+			"totalTimeSpent": 36,
+			"totalp2pCreated": 0,
+			"voiceMailCount": 0,
+			"totalAmountReceived": 24491.0
+		},
+		"FinishedCalls": [
+			{
+				"customerId": 104302314,
+				"customerNumber": "197657",
+				"customerName": "METRO COMMODITIES INC.",
+				"communicationTime": "2020-05-06T07:15:30",
+				"callDuration": 5,
+				"callOutcomeSummary": "Payment commitment received for 4,11,134.00 to be paid by 11-05-2020 ./nDispute raised for 43,849.00 on 2 invoices because of : Bankruptcy/nFollow up Test Test on 13-05-2020 for Contract Revision in process/nFollow up Test Test on 13-05-2020 for Account Suspended/n need more time to get all invoice approved",
+				"calledNumber": "+18558647776",
+				"isWorklist": true,
+				"callState": "incoming"
+			},
+			{
+				"customerId": 105784350,
+				"customerNumber": "328111",
+				"customerName": "FLUID SOLUTIONS, LLC",
+				"communicationTime": "2020-05-06T07:13:50",
+				"callDuration": 14,
+				"callOutcomeSummary": "Payment commitment received for 2,07,234.00 to be paid by 01-03-2020 /n Invoice with id XXXXXXX23 received to be cross-checked",
+				"calledNumber": "+18558647776",
+				"isWorklist": true,
+				"callState": "rejected"
+			},
+			{
+				"customerId": 105793486,
+				"customerNumber": "552332",
+				"customerName": "CMC FOODS",
+				"communicationTime": "2020-05-06T07:12:20",
+				"callDuration": 4,
+				"callOutcomeSummary": "Follow up  dhanam atti on 18-03-2020 for Customer Requested Documents/nPayment commitment received for 03,22,332.00 to be paid by 01-04-2020 for 3 invoices./nDispute raised for 40,876.00 on 2 invoices because of : Feature & Display - Fixed Promo/n Needs to be followed up",
+				"calledNumber": "+18558647776",
+				"isWorklist": true,
+				"callState": "outgoing"
+			},
+			{
+				"customerId": 105794968,
+				"customerNumber": "591419",
+				"customerName": "STRAUSS FEEDS",
+				"communicationTime": "2020-05-06T07:09:49",
+				"callDuration": 8,
+				"callOutcomeSummary": "Payment commitment received for 2,07,234.00 to be paid by 01-03-2020 ./nDispute raised for 1,01,849.00 on 2 invoices because of : Bankruptcy/nFollow up Test Test on 01-03-2020 for Contract Revision in process/nFollow up Test Test on 01-03-2020 for Account Suspended/n Needs to be reminded",
+				"calledNumber": "0987654321",
+				"isWorklist": true,
+				"callState": "missed"
+			},
+			{
+				"customerId": 105794987,
+				"customerNumber": "593823",
+				"customerName": "ANTHRACITE AUTO EXCHANGE INC.",
+				"communicationTime": "2020-05-06T07:07:56",
+				"callDuration": 5,
+				"callOutcomeSummary": "Follow up  dhanam atti on 12-02-2020 for Customer Requested Documents/nPayment commitment received for 1,01,792.00 to be paid by 01-03-2020 for 2 invoices./nDispute raised for 80,076.00 on 2 invoices because of : Feature & Display - Fixed Promo",
+				"calledName": "demo demo",
+				"calledNumber": "1234567890",
+				"isWorklist": true,
+				"callState": "incoming",
+				"callType": "Work"
+			}
+		],
+		"finishedCallsCount": 5
+	}
+}

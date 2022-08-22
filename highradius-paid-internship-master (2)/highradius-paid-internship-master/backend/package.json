@@ -1,0 +1,24 @@
+{
+  "name": "cls_mock_api",
+  "version": "1.0.0",
+  "description": "Mock API for Autonomous Collections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./api/index.js"
+  },
+  "author": "siddhartha-pvt",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "file-system": "^2.2.2",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2",
+    "prettier": "^2.0.4"
+  }
+}

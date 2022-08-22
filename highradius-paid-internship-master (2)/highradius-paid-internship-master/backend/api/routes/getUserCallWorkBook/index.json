@@ -1,0 +1,386 @@
+{
+  "overview": {
+    "id": 27449,
+    "totalOpenAmount": 0.0,
+    "totalPastDueAmount": 405085.69,
+    "totalPastDueProcessed": 24491.0,
+    "expectedCallingMinutes": 52,
+    "completedCallingMinutes": 1,
+    "processedCustomerCount": 5,
+    "totalCustomerCount": 20,
+    "totalP2PCount": 0,
+    "totalP2PAmount": 0,
+    "pendingPastDueBucketDocumentCount": [],
+    "pendingPastDueBucketDocumentAmount": []
+  },
+  "workbookItems": [{
+      "id": 105784350,
+      "customerName": "FLUID SOLUTIONS, LLC",
+      "customerNumber": "328111",
+      "currency": "$",
+      "totalBrokenPromises": 1,
+      "pastDueBucketDocumentCount": [2, 1, 0, 1, 0, 0],
+      "pastDueBucketDocumentAmount": [
+        210.0,
+        261.0,
+        0.0,
+        1673.0,
+        0.0,
+        0.0
+      ],
+      "bucketNames": [
+        "1-30",
+        "31-60",
+        "61-90",
+        "91-180",
+        "181-360",
+        "\u003e361"
+      ],
+      "totalCurrentOpenAmount": 4504.0,
+      "isWorkistCustomer": false
+    },
+    {
+      "id": 104190742,
+      "customerName": "MEAD JOHNSON NUTRITION",
+      "customerNumber": "172636",
+      "currency": "$",
+      "totalBrokenPromises": 2,
+      "pastDueBucketDocumentCount": [9, 2, 1, 2, 0, 0],
+      "pastDueBucketDocumentAmount": [
+        13329.02,
+        2617.94,
+        771.72,
+        200.0,
+        0.0,
+        0.0
+      ],
+      "bucketNames": [
+        "1-30",
+        "31-60",
+        "61-90",
+        "91-180",
+        "181-360",
+        "\u003e361"
+      ],
+      "totalCurrentOpenAmount": 44146.83,
+      "isWorkistCustomer": false
+    },
+    {
+      "id": 105792819,
+      "customerName": "EQUIP-BID.COM",
+      "customerNumber": "543597",
+      "currency": "$",
+      "totalBrokenPromises": 0,
+      "pastDueBucketDocumentCount": [0, 0, 0, 1, 0, 0],
+      "pastDueBucketDocumentAmount": [0.0, 0.0, 0.0, 1018.0, 0.0, 0.0],
+      "bucketNames": [
+        "1-30",
+        "31-60",
+        "61-90",
+        "91-180",
+        "181-360",
+        "\u003e361"
+      ],
+      "totalCurrentOpenAmount": 2478.0,
+      "isWorkistCustomer": false
+    },
+    {
+      "id": 105795391,
+      "customerName": "SUPPLYSIDE USA INC",
+      "customerNumber": "620798",
+      "currency": "$",
+      "totalBrokenPromises": 2,
+      "pastDueBucketDocumentCount": [2, 1, 4, 2, 0, 0],
+      "pastDueBucketDocumentAmount": [
+        5474.0,
+        1374.0,
+        7810.0,
+        5282.0,
+        0.0,
+        0.0
+      ],
+      "bucketNames": [
+        "1-30",
+        "31-60",
+        "61-90",
+        "91-180",
+        "181-360",
+        "\u003e361"
+      ],
+      "totalCurrentOpenAmount": 3623.0,
+      "isWorkistCustomer": false
+    },
+    {
+      "id": 105793583,
+      "customerName": "RAISED COMPUTER FLOORS, INC.",
+      "customerNumber": "556586",
+      "currency": "$",
+      "totalBrokenPromises": 0,
+      "pastDueBucketDocumentCount": [8, 4, 1, 0, 0, 0],
+      "pastDueBucketDocumentAmount": [
+        5067.0,
+        2884.67,
+        636.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bucketNames": [
+        "1-30",
+        "31-60",
+        "61-90",
+        "91-180",
+        "181-360",
+        "\u003e361"
+      ],
+      "totalCurrentOpenAmount": 546.0,
+      "isWorkistCustomer": false
+    },
+    {
+      "id": 105795404,
+      "customerName": "BUY \u0026 SELL FITNESS",
+      "customerNumber": "620830",
+      "currency": "$",
+      "totalBrokenPromises": 0,
+      "pastDueBucketDocumentCount": [4, 11, 7, 3, 0, 0],
+      "pastDueBucketDocumentAmount": [
+        3658.0,
+        12424.33,
+        8345.33,
+        3368.0,
+        0.0,
+        0.0
+      ],
+      "bucketNames": [
+        "1-30",
+        "31-60",
+        "61-90",
+        "91-180",
+        "181-360",
+        "\u003e361"
+      ],
+      "totalCurrentOpenAmount": 2646.17,
+      "isWorkistCustomer": false
+    },
+    {
+      "id": 105795128,
+      "customerName": "WHOLESALE TIRE INC.",
+      "customerNumber": "598714",
+      "currency": "$",
+      "totalBrokenPromises": 2,
+      "pastDueBucketDocumentCount": [2, 0, 0, 4, 0, 0],
+      "pastDueBucketDocumentAmount": [1374.0, 0.0, 0.0, 4358.0, 0.0, 0.0],
+      "bucketNames": [
+        "1-30",
+        "31-60",
+        "61-90",
+        "91-180",
+        "181-360",
+        "\u003e361"
+      ],
+      "totalCurrentOpenAmount": 1116.0,
+      "isWorkistCustomer": false
+    },
+    {
+      "id": 105795349,
+      "customerName": "THALHEIMER BROTHERS LLC",
+      "customerNumber": "620785",
+      "currency": "$",
+      "totalBrokenPromises": 2,
+      "pastDueBucketDocumentCount": [2, 0, 1, 1, 0, 0],
+      "pastDueBucketDocumentAmount": [
+        1132.0,
+        0.0,
+        551.0,
+        525.0,
+        0.0,
+        0.0
+      ],
+      "bucketNames": [
+        "1-30",
+        "31-60",
+        "61-90",
+        "91-180",
+        "181-360",
+        "\u003e361"
+      ],
+      "totalCurrentOpenAmount": 11902.0,
+      "isWorkistCustomer": false
+    },
+    {
+      "id": 105795231,
+      "customerName": "WAR ON RETAIL",
+      "customerNumber": "615786",
+      "currency": "$",
+      "totalBrokenPromises": 1,
+      "pastDueBucketDocumentCount": [0, 1, 1, 21, 0, 0],
+      "pastDueBucketDocumentAmount": [
+        0.0,
+        962.0,
+        404.0,
+        22606.0,
+        0.0,
+        0.0
+      ],
+      "bucketNames": [
+        "1-30",
+        "31-60",
+        "61-90",
+        "91-180",
+        "181-360",
+        "\u003e361"
+      ],
+      "totalCurrentOpenAmount": 5859.0,
+      "isWorkistCustomer": false
+    },
+    {
+      "id": 105794875,
+      "customerName": "AVANGARD INNOVATIVE",
+      "customerNumber": "588939",
+      "currency": "$",
+      "totalBrokenPromises": 0,
+      "pastDueBucketDocumentCount": [17, 15, 21, 19, 0, 0],
+      "pastDueBucketDocumentAmount": [
+        52906.0,
+        43467.0,
+        61031.0,
+        50496.0,
+        0.0,
+        0.0
+      ],
+      "bucketNames": [
+        "1-30",
+        "31-60",
+        "61-90",
+        "91-180",
+        "181-360",
+        "\u003e361"
+      ],
+      "totalCurrentOpenAmount": 3635.0,
+      "isWorkistCustomer": false
+    },
+    {
+      "id": 105794709,
+      "customerName": "EASTERN RECYCLING SERVICES",
+      "customerNumber": "584182",
+      "currency": "$",
+      "totalBrokenPromises": 0,
+      "pastDueBucketDocumentCount": [3, 1, 3, 3, 0, 0],
+      "pastDueBucketDocumentAmount": [
+        1862.0,
+        627.0,
+        1216.0,
+        406.0,
+        0.0,
+        0.0
+      ],
+      "bucketNames": [
+        "1-30",
+        "31-60",
+        "61-90",
+        "91-180",
+        "181-360",
+        "\u003e361"
+      ],
+      "totalCurrentOpenAmount": 10282.0,
+      "isWorkistCustomer": false
+    },
+    {
+      "id": 105794658,
+      "customerName": "BSD PLASTICS INC",
+      "customerNumber": "579473",
+      "currency": "$",
+      "totalBrokenPromises": 0,
+      "pastDueBucketDocumentCount": [2, 2, 1, 0, 0, 0],
+      "pastDueBucketDocumentAmount": [
+        3234.0,
+        2541.0,
+        2946.68,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bucketNames": [
+        "1-30",
+        "31-60",
+        "61-90",
+        "91-180",
+        "181-360",
+        "\u003e361"
+      ],
+      "totalCurrentOpenAmount": 2920.0,
+      "isWorkistCustomer": false
+    },
+    {
+      "id": 105793861,
+      "customerName": "U.S. ZINC",
+      "customerNumber": "560917",
+      "currency": "$",
+      "totalBrokenPromises": 0,
+      "pastDueBucketDocumentCount": [13, 0, 1, 1, 0, 0],
+      "pastDueBucketDocumentAmount": [
+        18102.0,
+        0.0,
+        1181.0,
+        548.0,
+        0.0,
+        0.0
+      ],
+      "bucketNames": [
+        "1-30",
+        "31-60",
+        "61-90",
+        "91-180",
+        "181-360",
+        "\u003e361"
+      ],
+      "totalCurrentOpenAmount": 28234.66,
+      "isWorkistCustomer": false
+    },
+    {
+      "id": 105791877,
+      "customerName": "HURST HARDWOODS",
+      "customerNumber": "482437",
+      "currency": "$",
+      "totalBrokenPromises": 2,
+      "pastDueBucketDocumentCount": [5, 1, 0, 0, 0, 0],
+      "pastDueBucketDocumentAmount": [3735.0, 951.0, 0.0, 0.0, 0.0, 0.0],
+      "bucketNames": [
+        "1-30",
+        "31-60",
+        "61-90",
+        "91-180",
+        "181-360",
+        "\u003e361"
+      ],
+      "totalCurrentOpenAmount": 768.0,
+      "isWorkistCustomer": false
+    },
+    {
+      "id": 105794657,
+      "customerName": "ELWAY INDUSTRIES, INC.",
+      "customerNumber": "579539",
+      "currency": "$",
+      "totalBrokenPromises": 2,
+      "pastDueBucketDocumentCount": [1, 5, 1, 0, 0, 0],
+      "pastDueBucketDocumentAmount": [
+        3072.0,
+        1598.0,
+        1622.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bucketNames": [
+        "1-30",
+        "31-60",
+        "61-90",
+        "91-180",
+        "181-360",
+        "\u003e361"
+      ],
+      "totalCurrentOpenAmount": 7172.0,
+      "isWorkistCustomer": false
+    }
+  ]
+}

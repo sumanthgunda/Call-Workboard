@@ -1,0 +1,84 @@
+{
+	"total": 6,
+
+	"customer": [
+		{
+			"bucketNames": ["1-30", "31-60", "61-90", "91-180", "181-360"],
+			"companyCode": "82",
+			"totalCurrentOpenAmount": 401.4,
+			"pastDueBucketDocumentAmount": [1234.0, 212.0, 844.0, 67.0, 0.0],
+			"totalBrokenPromises": 3,
+			"customerNumber": "328111",
+			"past_due": 64.0,
+			"customerName": "FLUID SOLUTIONS, LLC",
+			"processorId": 26786,
+			"pkCustomerMapId": 105784350
+		},
+		{
+			"bucketNames": ["1-30", "31-60", "61-90", "91-180", "181-360"],
+			"companyCode": "82",
+			"pastDueBucketDocumentAmount": [245.0, 322.0, 900.0, 233.0, 0.0],
+			"totalBrokenPromises": 1,
+			"customerNumber": "172636",
+			"past_due": 1234.0,
+			"customerName": "MEAD JOHNSON NUTRITION",
+			"processorId": 26786,
+			"totalCurrentOpenAmount": 50.44,
+			"pkCustomerMapId": 104190742
+		},
+		{
+			"bucketNames": ["1-30", "31-60", "61-90", "91-180", "181-360"],
+			"companyCode": "82",
+			"pastDueBucketDocumentAmount": [467.0, 500.0, 456.0, 89.0, 0.0],
+			"totalCurrentOpenAmount": 421,
+			"totalBrokenPromises": null,
+
+			"customerNumber": "543597",
+			"past_due": 1500.0,
+			"customerName": "EQUIP-BID.COM",
+			"processorId": 26786,
+			"current_due": 984.0,
+
+			"pkCustomerMapId": 105792819
+		},
+		{
+			"bucketNames": ["1-30", "31-60", "61-90", "91-180", "181-360"],
+			"companyCode": "82",
+			"pastDueBucketDocumentAmount": [676.0, 122.0, 897.0, 0.0, 0.0],
+			"totalBrokenPromises": 2,
+			"customerNumber": "620798",
+			"totalCurrentOpenAmount": 200,
+			"past_due": 1000.0,
+			"customerName": "SUPPLYSIDE USA INC",
+			"processorId": 27327,
+			"current_due": 99.0,
+			"pkCustomerMapId": 105795391
+		},
+		{
+			"bucketNames": ["1-30", "31-60", "61-90", "91-180", "181-360"],
+			"companyCode": "82",
+			"pastDueBucketDocumentAmount": [1067.17, 0.0, 321.0, 0.0, 0.0],
+			"totalBrokenPromises": 1,
+			"customerNumber": "556586",
+			"totalCurrentOpenAmount": 600,
+			"past_due": 1067.17,
+			"customerName": "RAISED COMPUTER FLOORS, INC.",
+			"processorId": 27452,
+			"current_due": 887.46,
+			"pkCustomerMapId": 105793583
+		},
+		{
+			"bucketNames": ["1-30", "31-60", "61-90", "91-180", "181-360"],
+			"companyCode": "82",
+			"pastDueBucketDocumentAmount": [41.88, 345.0, 989.0, 451.0, 0.0],
+			"totalBrokenPromises": 2,
+			"customerNumber": "598714",
+			"totalCurrentOpenAmount": 201.4,
+			"past_due": 41.88,
+			"customerName": "WHOLESALE TIRE INC.",
+			"processorId": 27452,
+			"current_due": 89.3,
+			"pkCustomerMapId": 105795128
+		}
+	]
+}

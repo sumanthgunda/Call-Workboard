@@ -1,0 +1,2162 @@
+[
+	{
+		"isDefault": 1,
+		"countryName": "India",
+		"phoneCode": "91",
+		"countryCode": "IN",
+		"isPreferred": true,
+		"countryId": 10086,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Afghanistan",
+		"phoneCode": "93",
+		"countryCode": "AF",
+		"isPreferred": false,
+		"countryId": 10001,
+		"preferredOrder": 6
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Albania",
+		"phoneCode": "355",
+		"countryCode": "AL",
+		"isPreferred": false,
+		"countryId": 10002,
+		"preferredOrder": 7
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Algeria",
+		"phoneCode": "213",
+		"countryCode": "DZ",
+		"isPreferred": false,
+		"countryId": 10003,
+		"preferredOrder": 9
+	},
+	{
+		"isDefault": 0,
+		"countryName": "AmericanSamoa",
+		"phoneCode": "1684",
+		"countryCode": "AS",
+		"isPreferred": false,
+		"countryId": 10004,
+		"preferredOrder": 18
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Andorra",
+		"phoneCode": "376",
+		"countryCode": "AD",
+		"isPreferred": false,
+		"countryId": 10005,
+		"preferredOrder": 3
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Angola",
+		"phoneCode": "244",
+		"countryCode": "AO",
+		"isPreferred": false,
+		"countryId": 10006,
+		"preferredOrder": 5
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Anguilla",
+		"phoneCode": "1264",
+		"countryCode": "AI",
+		"isPreferred": false,
+		"countryId": 10007,
+		"preferredOrder": 0
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Antigua and Barbuda",
+		"phoneCode": "1268",
+		"countryCode": "AG",
+		"isPreferred": true,
+		"countryId": 10008,
+		"preferredOrder": 8
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Argentina",
+		"phoneCode": "54",
+		"countryCode": "AR",
+		"isPreferred": false,
+		"countryId": 10009,
+		"preferredOrder": 7
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Armenia",
+		"phoneCode": "374",
+		"countryCode": "AM",
+		"isPreferred": false,
+		"countryId": 10010,
+		"preferredOrder": 6
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Aruba",
+		"phoneCode": "297",
+		"countryCode": "AW",
+		"isPreferred": false,
+		"countryId": 10011,
+		"preferredOrder": 6
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Australia",
+		"phoneCode": "61",
+		"countryCode": "AU",
+		"isPreferred": false,
+		"countryId": 10012,
+		"preferredOrder": 9
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Austria",
+		"phoneCode": "43",
+		"countryCode": "AT",
+		"isPreferred": false,
+		"countryId": 10013,
+		"preferredOrder": 5
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Azerbaijan",
+		"phoneCode": "994",
+		"countryCode": "AZ",
+		"isPreferred": false,
+		"countryId": 10014,
+		"preferredOrder": 5
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Bahamas",
+		"phoneCode": "1242",
+		"countryCode": "BS",
+		"isPreferred": false,
+		"countryId": 10015,
+		"preferredOrder": 8
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Bahrain",
+		"phoneCode": "973",
+		"countryCode": "BH",
+		"isPreferred": false,
+		"countryId": 10016,
+		"preferredOrder": 4
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Bangladesh",
+		"phoneCode": "880",
+		"countryCode": "BD",
+		"isPreferred": false,
+		"countryId": 10017,
+		"preferredOrder": 3
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Barbados",
+		"phoneCode": "1246",
+		"countryCode": "BB",
+		"isPreferred": false,
+		"countryId": 10018,
+		"preferredOrder": 8
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Belarus",
+		"phoneCode": "375",
+		"countryCode": "BY",
+		"isPreferred": false,
+		"countryId": 10019,
+		"preferredOrder": 5
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Belgium",
+		"phoneCode": "32",
+		"countryCode": "BE",
+		"isPreferred": false,
+		"countryId": 10020,
+		"preferredOrder": 7
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Belize",
+		"phoneCode": "501",
+		"countryCode": "BZ",
+		"isPreferred": false,
+		"countryId": 10021,
+		"preferredOrder": 4
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Benin",
+		"phoneCode": "229",
+		"countryCode": "BJ",
+		"isPreferred": false,
+		"countryId": 10022,
+		"preferredOrder": 2
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Bermuda",
+		"phoneCode": "1441",
+		"countryCode": "BM",
+		"isPreferred": false,
+		"countryId": 10023,
+		"preferredOrder": 2
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Bhutan",
+		"phoneCode": "975",
+		"countryCode": "BT",
+		"isPreferred": false,
+		"countryId": 10024,
+		"preferredOrder": 2
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Bosnia and Herzegovina",
+		"phoneCode": "387",
+		"countryCode": "BA",
+		"isPreferred": false,
+		"countryId": 10025,
+		"preferredOrder": 9
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Botswana",
+		"phoneCode": "267",
+		"countryCode": "BW",
+		"isPreferred": false,
+		"countryId": 10026,
+		"preferredOrder": 0
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Brazil",
+		"phoneCode": "55",
+		"countryCode": "BR",
+		"isPreferred": false,
+		"countryId": 10027,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "British Indian Ocean Territory",
+		"phoneCode": "246",
+		"countryCode": "IO",
+		"isPreferred": true,
+		"countryId": 10028,
+		"preferredOrder": 0
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Bulgaria",
+		"phoneCode": "359",
+		"countryCode": "BG",
+		"isPreferred": false,
+		"countryId": 10029,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Burkina Faso",
+		"phoneCode": "226",
+		"countryCode": "BF",
+		"isPreferred": false,
+		"countryId": 10030,
+		"preferredOrder": 9
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Burundi",
+		"phoneCode": "257",
+		"countryCode": "BI",
+		"isPreferred": false,
+		"countryId": 10031,
+		"preferredOrder": 4
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Cambodia",
+		"phoneCode": "855",
+		"countryCode": "KH",
+		"isPreferred": true,
+		"countryId": 10032,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Cameroon",
+		"phoneCode": "237",
+		"countryCode": "CM",
+		"isPreferred": true,
+		"countryId": 10033,
+		"preferredOrder": 8
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Canada",
+		"phoneCode": "1",
+		"countryCode": "CA",
+		"isPreferred": false,
+		"countryId": 10034,
+		"preferredOrder": 4
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Cape Verde",
+		"phoneCode": "238",
+		"countryCode": "CV",
+		"isPreferred": false,
+		"countryId": 10035,
+		"preferredOrder": 3
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Cayman Islands",
+		"phoneCode": "345",
+		"countryCode": "KY",
+		"isPreferred": false,
+		"countryId": 10036,
+		"preferredOrder": 9
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Central African Republic",
+		"phoneCode": "236",
+		"countryCode": "CF",
+		"isPreferred": true,
+		"countryId": 10037,
+		"preferredOrder": 9
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Chad",
+		"phoneCode": "235",
+		"countryCode": "TD",
+		"isPreferred": false,
+		"countryId": 10038,
+		"preferredOrder": 6
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Chile",
+		"phoneCode": "56",
+		"countryCode": "CL",
+		"isPreferred": false,
+		"countryId": 10039,
+		"preferredOrder": 8
+	},
+	{
+		"isDefault": 0,
+		"countryName": "China",
+		"phoneCode": "86",
+		"countryCode": "CN",
+		"isPreferred": false,
+		"countryId": 10040,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Colombia",
+		"phoneCode": "57",
+		"countryCode": "CO",
+		"isPreferred": false,
+		"countryId": 10041,
+		"preferredOrder": 2
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Comoros",
+		"phoneCode": "269",
+		"countryCode": "KM",
+		"isPreferred": true,
+		"countryId": 10042,
+		"preferredOrder": 0
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Congo",
+		"phoneCode": "242",
+		"countryCode": "CG",
+		"isPreferred": true,
+		"countryId": 10043,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Cook Islands",
+		"phoneCode": "682",
+		"countryCode": "CK",
+		"isPreferred": true,
+		"countryId": 10044,
+		"preferredOrder": 7
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Costa Rica",
+		"phoneCode": "506",
+		"countryCode": "CR",
+		"isPreferred": false,
+		"countryId": 10045,
+		"preferredOrder": 5
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Croatia",
+		"phoneCode": "385",
+		"countryCode": "HR",
+		"isPreferred": true,
+		"countryId": 10046,
+		"preferredOrder": 9
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Cuba",
+		"phoneCode": "53",
+		"countryCode": "CU",
+		"isPreferred": false,
+		"countryId": 10047,
+		"preferredOrder": 4
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Cyprus",
+		"phoneCode": "537",
+		"countryCode": "CY",
+		"isPreferred": true,
+		"countryId": 10048,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Czech Republic",
+		"phoneCode": "420",
+		"countryCode": "CZ",
+		"isPreferred": true,
+		"countryId": 10049,
+		"preferredOrder": 4
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Denmark",
+		"phoneCode": "45",
+		"countryCode": "DK",
+		"isPreferred": false,
+		"countryId": 10050,
+		"preferredOrder": 8
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Djibouti",
+		"phoneCode": "253",
+		"countryCode": "DJ",
+		"isPreferred": true,
+		"countryId": 10051,
+		"preferredOrder": 7
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Dominica",
+		"phoneCode": "1767",
+		"countryCode": "DM",
+		"isPreferred": true,
+		"countryId": 10052,
+		"preferredOrder": 8
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Dominican Republic",
+		"phoneCode": "1849",
+		"countryCode": "DO",
+		"isPreferred": true,
+		"countryId": 10053,
+		"preferredOrder": 6
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Ecuador",
+		"phoneCode": "593",
+		"countryCode": "EC",
+		"isPreferred": false,
+		"countryId": 10054,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Egypt",
+		"phoneCode": "20",
+		"countryCode": "EG",
+		"isPreferred": true,
+		"countryId": 10055,
+		"preferredOrder": 0
+	},
+	{
+		"isDefault": 0,
+		"countryName": "El Salvador",
+		"phoneCode": "503",
+		"countryCode": "SV",
+		"isPreferred": true,
+		"countryId": 10056,
+		"preferredOrder": 2
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Equatorial Guinea",
+		"phoneCode": "240",
+		"countryCode": "GQ",
+		"isPreferred": true,
+		"countryId": 10057,
+		"preferredOrder": 3
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Eritrea",
+		"phoneCode": "291",
+		"countryCode": "ER",
+		"isPreferred": true,
+		"countryId": 10058,
+		"preferredOrder": 3
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Estonia",
+		"phoneCode": "372",
+		"countryCode": "EE",
+		"isPreferred": false,
+		"countryId": 10059,
+		"preferredOrder": 9
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Ethiopia",
+		"phoneCode": "251",
+		"countryCode": "ET",
+		"isPreferred": true,
+		"countryId": 10060,
+		"preferredOrder": 5
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Faroe Islands",
+		"phoneCode": "298",
+		"countryCode": "FO",
+		"isPreferred": false,
+		"countryId": 10061,
+		"preferredOrder": 4
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Fiji",
+		"phoneCode": "679",
+		"countryCode": "FJ",
+		"isPreferred": true,
+		"countryId": 10062,
+		"preferredOrder": 0
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Finland",
+		"phoneCode": "358",
+		"countryCode": "FI",
+		"isPreferred": false,
+		"countryId": 10063,
+		"preferredOrder": 9
+	},
+	{
+		"isDefault": 0,
+		"countryName": "France",
+		"phoneCode": "33",
+		"countryCode": "FR",
+		"isPreferred": true,
+		"countryId": 10064,
+		"preferredOrder": 0
+	},
+	{
+		"isDefault": 0,
+		"countryName": "French Guiana",
+		"phoneCode": "594",
+		"countryCode": "GF",
+		"isPreferred": false,
+		"countryId": 10065,
+		"preferredOrder": 8
+	},
+	{
+		"isDefault": 0,
+		"countryName": "French Polynesia",
+		"phoneCode": "689",
+		"countryCode": "PF",
+		"isPreferred": true,
+		"countryId": 10066,
+		"preferredOrder": 0
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Gabon",
+		"phoneCode": "241",
+		"countryCode": "GA",
+		"isPreferred": true,
+		"countryId": 10067,
+		"preferredOrder": 8
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Gambia",
+		"phoneCode": "220",
+		"countryCode": "GM",
+		"isPreferred": true,
+		"countryId": 10068,
+		"preferredOrder": 2
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Georgia",
+		"phoneCode": "995",
+		"countryCode": "GE",
+		"isPreferred": false,
+		"countryId": 10069,
+		"preferredOrder": 6
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Germany",
+		"phoneCode": "49",
+		"countryCode": "DE",
+		"isPreferred": true,
+		"countryId": 10070,
+		"preferredOrder": 8
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Ghana",
+		"phoneCode": "233",
+		"countryCode": "GH",
+		"isPreferred": false,
+		"countryId": 10071,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Gibraltar",
+		"phoneCode": "350",
+		"countryCode": "GI",
+		"isPreferred": true,
+		"countryId": 10072,
+		"preferredOrder": 0
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Greece",
+		"phoneCode": "30",
+		"countryCode": "GR",
+		"isPreferred": true,
+		"countryId": 10073,
+		"preferredOrder": 8
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Greenland",
+		"phoneCode": "299",
+		"countryCode": "GL",
+		"isPreferred": true,
+		"countryId": 10074,
+		"preferredOrder": 2
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Grenada",
+		"phoneCode": "1473",
+		"countryCode": "GD",
+		"isPreferred": false,
+		"countryId": 10075,
+		"preferredOrder": 7
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Guadeloupe",
+		"phoneCode": "590",
+		"countryCode": "GP",
+		"isPreferred": false,
+		"countryId": 10076,
+		"preferredOrder": 7
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Guam",
+		"phoneCode": "1671",
+		"countryCode": "GU",
+		"isPreferred": false,
+		"countryId": 10077,
+		"preferredOrder": 2
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Guatemala",
+		"phoneCode": "502",
+		"countryCode": "GT",
+		"isPreferred": true,
+		"countryId": 10078,
+		"preferredOrder": 6
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Guinea",
+		"phoneCode": "224",
+		"countryCode": "GN",
+		"isPreferred": true,
+		"countryId": 10079,
+		"preferredOrder": 8
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Guinea-Bissau",
+		"phoneCode": "245",
+		"countryCode": "GW",
+		"isPreferred": true,
+		"countryId": 10080,
+		"preferredOrder": 6
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Guyana",
+		"phoneCode": "595",
+		"countryCode": "GY",
+		"isPreferred": true,
+		"countryId": 10081,
+		"preferredOrder": 6
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Haiti",
+		"phoneCode": "509",
+		"countryCode": "HT",
+		"isPreferred": true,
+		"countryId": 10082,
+		"preferredOrder": 0
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Honduras",
+		"phoneCode": "504",
+		"countryCode": "HN",
+		"isPreferred": true,
+		"countryId": 10083,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Hungary",
+		"phoneCode": "36",
+		"countryCode": "HU",
+		"isPreferred": true,
+		"countryId": 10084,
+		"preferredOrder": 4
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Iceland",
+		"phoneCode": "354",
+		"countryCode": "IS",
+		"isPreferred": true,
+		"countryId": 10085,
+		"preferredOrder": 6
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Indonesia",
+		"phoneCode": "62",
+		"countryCode": "ID",
+		"isPreferred": false,
+		"countryId": 10087,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Iraq",
+		"phoneCode": "964",
+		"countryCode": "IQ",
+		"isPreferred": false,
+		"countryId": 10088,
+		"preferredOrder": 7
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Ireland",
+		"phoneCode": "353",
+		"countryCode": "IE",
+		"isPreferred": true,
+		"countryId": 10089,
+		"preferredOrder": 8
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Israel",
+		"phoneCode": "972",
+		"countryCode": "IL",
+		"isPreferred": false,
+		"countryId": 10090,
+		"preferredOrder": 5
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Italy",
+		"phoneCode": "39",
+		"countryCode": "IT",
+		"isPreferred": false,
+		"countryId": 10091,
+		"preferredOrder": 8
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Jamaica",
+		"phoneCode": "1876",
+		"countryCode": "JM",
+		"isPreferred": true,
+		"countryId": 10092,
+		"preferredOrder": 2
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Japan",
+		"phoneCode": "81",
+		"countryCode": "JP",
+		"isPreferred": true,
+		"countryId": 10093,
+		"preferredOrder": 5
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Jordan",
+		"phoneCode": "962",
+		"countryCode": "JO",
+		"isPreferred": true,
+		"countryId": 10094,
+		"preferredOrder": 3
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Kazakhstan",
+		"phoneCode": "77",
+		"countryCode": "KZ",
+		"isPreferred": true,
+		"countryId": 10095,
+		"preferredOrder": 0
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Kenya",
+		"phoneCode": "254",
+		"countryCode": "KE",
+		"isPreferred": true,
+		"countryId": 10096,
+		"preferredOrder": 3
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Kiribati",
+		"phoneCode": "686",
+		"countryCode": "KI",
+		"isPreferred": true,
+		"countryId": 10097,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Kuwait",
+		"phoneCode": "965",
+		"countryCode": "KW",
+		"isPreferred": false,
+		"countryId": 10098,
+		"preferredOrder": 9
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Kyrgyzstan",
+		"phoneCode": "996",
+		"countryCode": "KG",
+		"isPreferred": false,
+		"countryId": 10099,
+		"preferredOrder": 5
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Latvia",
+		"phoneCode": "371",
+		"countryCode": "LV",
+		"isPreferred": false,
+		"countryId": 10100,
+		"preferredOrder": 6
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Lebanon",
+		"phoneCode": "961",
+		"countryCode": "LB",
+		"isPreferred": false,
+		"countryId": 10101,
+		"preferredOrder": 7
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Lesotho",
+		"phoneCode": "266",
+		"countryCode": "LS",
+		"isPreferred": false,
+		"countryId": 10102,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Liberia",
+		"phoneCode": "231",
+		"countryCode": "LR",
+		"isPreferred": true,
+		"countryId": 10103,
+		"preferredOrder": 4
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Liechtenstein",
+		"phoneCode": "423",
+		"countryCode": "LI",
+		"isPreferred": false,
+		"countryId": 10104,
+		"preferredOrder": 7
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Lithuania",
+		"phoneCode": "370",
+		"countryCode": "LT",
+		"isPreferred": false,
+		"countryId": 10105,
+		"preferredOrder": 9
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Luxembourg",
+		"phoneCode": "352",
+		"countryCode": "LU",
+		"isPreferred": true,
+		"countryId": 10106,
+		"preferredOrder": 0
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Madagascar",
+		"phoneCode": "261",
+		"countryCode": "MG",
+		"isPreferred": false,
+		"countryId": 10107,
+		"preferredOrder": 7
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Malawi",
+		"phoneCode": "265",
+		"countryCode": "MW",
+		"isPreferred": false,
+		"countryId": 10108,
+		"preferredOrder": 3
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Malaysia",
+		"phoneCode": "60",
+		"countryCode": "MY",
+		"isPreferred": false,
+		"countryId": 10109,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Maldives",
+		"phoneCode": "960",
+		"countryCode": "MV",
+		"isPreferred": true,
+		"countryId": 10110,
+		"preferredOrder": 0
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Mali",
+		"phoneCode": "223",
+		"countryCode": "ML",
+		"isPreferred": true,
+		"countryId": 10111,
+		"preferredOrder": 5
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Malta",
+		"phoneCode": "356",
+		"countryCode": "MT",
+		"isPreferred": true,
+		"countryId": 10112,
+		"preferredOrder": 0
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Marshall Islands",
+		"phoneCode": "692",
+		"countryCode": "MH",
+		"isPreferred": false,
+		"countryId": 10113,
+		"preferredOrder": 5
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Martinique",
+		"phoneCode": "596",
+		"countryCode": "MQ",
+		"isPreferred": true,
+		"countryId": 10114,
+		"preferredOrder": 8
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Mauritania",
+		"phoneCode": "222",
+		"countryCode": "MR",
+		"isPreferred": false,
+		"countryId": 10115,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Mauritius",
+		"phoneCode": "230",
+		"countryCode": "MU",
+		"isPreferred": false,
+		"countryId": 10116,
+		"preferredOrder": 0
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Mayotte",
+		"phoneCode": "262",
+		"countryCode": "YT",
+		"isPreferred": true,
+		"countryId": 10117,
+		"preferredOrder": 4
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Mexico",
+		"phoneCode": "52",
+		"countryCode": "MX",
+		"isPreferred": false,
+		"countryId": 10118,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Monaco",
+		"phoneCode": "377",
+		"countryCode": "MC",
+		"isPreferred": true,
+		"countryId": 10119,
+		"preferredOrder": 7
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Mongolia",
+		"phoneCode": "976",
+		"countryCode": "MN",
+		"isPreferred": false,
+		"countryId": 10120,
+		"preferredOrder": 7
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Montenegro",
+		"phoneCode": "382",
+		"countryCode": "ME",
+		"isPreferred": true,
+		"countryId": 10121,
+		"preferredOrder": 7
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Montserrat",
+		"phoneCode": "1664",
+		"countryCode": "MS",
+		"isPreferred": true,
+		"countryId": 10122,
+		"preferredOrder": 3
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Morocco",
+		"phoneCode": "212",
+		"countryCode": "MA",
+		"isPreferred": false,
+		"countryId": 10123,
+		"preferredOrder": 4
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Myanmar",
+		"phoneCode": "95",
+		"countryCode": "MM",
+		"isPreferred": true,
+		"countryId": 10124,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Namibia",
+		"phoneCode": "264",
+		"countryCode": "NA",
+		"isPreferred": false,
+		"countryId": 10125,
+		"preferredOrder": 0
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Nauru",
+		"phoneCode": "674",
+		"countryCode": "NR",
+		"isPreferred": false,
+		"countryId": 10126,
+		"preferredOrder": 5
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Nepal",
+		"phoneCode": "977",
+		"countryCode": "NP",
+		"isPreferred": true,
+		"countryId": 10127,
+		"preferredOrder": 5
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Netherlands",
+		"phoneCode": "31",
+		"countryCode": "NL",
+		"isPreferred": false,
+		"countryId": 10128,
+		"preferredOrder": 5
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Netherlands Antilles",
+		"phoneCode": "599",
+		"countryCode": "AN",
+		"isPreferred": false,
+		"countryId": 10129,
+		"preferredOrder": 0
+	},
+	{
+		"isDefault": 0,
+		"countryName": "New Caledonia",
+		"phoneCode": "687",
+		"countryCode": "NC",
+		"isPreferred": false,
+		"countryId": 10130,
+		"preferredOrder": 5
+	},
+	{
+		"isDefault": 0,
+		"countryName": "New Zealand",
+		"phoneCode": "64",
+		"countryCode": "NZ",
+		"isPreferred": true,
+		"countryId": 10131,
+		"preferredOrder": 4
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Nicaragua",
+		"phoneCode": "505",
+		"countryCode": "NI",
+		"isPreferred": false,
+		"countryId": 10132,
+		"preferredOrder": 4
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Niger",
+		"phoneCode": "227",
+		"countryCode": "NE",
+		"isPreferred": true,
+		"countryId": 10133,
+		"preferredOrder": 9
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Nigeria",
+		"phoneCode": "234",
+		"countryCode": "NG",
+		"isPreferred": false,
+		"countryId": 10134,
+		"preferredOrder": 6
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Niue",
+		"phoneCode": "683",
+		"countryCode": "NU",
+		"isPreferred": false,
+		"countryId": 10135,
+		"preferredOrder": 2
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Norfolk Island",
+		"phoneCode": "672",
+		"countryCode": "NF",
+		"isPreferred": true,
+		"countryId": 10136,
+		"preferredOrder": 7
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Northern Mariana Islands",
+		"phoneCode": "1670",
+		"countryCode": "MP",
+		"isPreferred": true,
+		"countryId": 10137,
+		"preferredOrder": 0
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Norway",
+		"phoneCode": "47",
+		"countryCode": "NO",
+		"isPreferred": false,
+		"countryId": 10138,
+		"preferredOrder": 6
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Oman",
+		"phoneCode": "968",
+		"countryCode": "OM",
+		"isPreferred": false,
+		"countryId": 10139,
+		"preferredOrder": 3
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Pakistan",
+		"phoneCode": "92",
+		"countryCode": "PK",
+		"isPreferred": false,
+		"countryId": 10140,
+		"preferredOrder": 7
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Palau",
+		"phoneCode": "680",
+		"countryCode": "PW",
+		"isPreferred": true,
+		"countryId": 10141,
+		"preferredOrder": 4
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Panama",
+		"phoneCode": "507",
+		"countryCode": "PA",
+		"isPreferred": false,
+		"countryId": 10142,
+		"preferredOrder": 6
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Papua New Guinea",
+		"phoneCode": "675",
+		"countryCode": "PG",
+		"isPreferred": true,
+		"countryId": 10143,
+		"preferredOrder": 2
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Paraguay",
+		"phoneCode": "595",
+		"countryCode": "PY",
+		"isPreferred": true,
+		"countryId": 10144,
+		"preferredOrder": 7
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Peru",
+		"phoneCode": "51",
+		"countryCode": "PE",
+		"isPreferred": false,
+		"countryId": 10145,
+		"preferredOrder": 0
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Philippines",
+		"phoneCode": "63",
+		"countryCode": "PH",
+		"isPreferred": true,
+		"countryId": 10146,
+		"preferredOrder": 3
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Poland",
+		"phoneCode": "48",
+		"countryCode": "PL",
+		"isPreferred": false,
+		"countryId": 10147,
+		"preferredOrder": 0
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Portugal",
+		"phoneCode": "351",
+		"countryCode": "PT",
+		"isPreferred": true,
+		"countryId": 10148,
+		"preferredOrder": 5
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Puerto Rico",
+		"phoneCode": "1939",
+		"countryCode": "PR",
+		"isPreferred": false,
+		"countryId": 10149,
+		"preferredOrder": 8
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Qatar",
+		"phoneCode": "974",
+		"countryCode": "QA",
+		"isPreferred": true,
+		"countryId": 10150,
+		"preferredOrder": 3
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Romania",
+		"phoneCode": "40",
+		"countryCode": "RO",
+		"isPreferred": true,
+		"countryId": 10151,
+		"preferredOrder": 7
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Rwanda",
+		"phoneCode": "250",
+		"countryCode": "RW",
+		"isPreferred": true,
+		"countryId": 10152,
+		"preferredOrder": 9
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Samoa",
+		"phoneCode": "685",
+		"countryCode": "WS",
+		"isPreferred": false,
+		"countryId": 10153,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "San Marino",
+		"phoneCode": "378",
+		"countryCode": "SM",
+		"isPreferred": true,
+		"countryId": 10154,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Saudi Arabia",
+		"phoneCode": "966",
+		"countryCode": "SA",
+		"isPreferred": true,
+		"countryId": 10155,
+		"preferredOrder": 8
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Senegal",
+		"phoneCode": "221",
+		"countryCode": "SN",
+		"isPreferred": true,
+		"countryId": 10156,
+		"preferredOrder": 8
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Serbia",
+		"phoneCode": "381",
+		"countryCode": "RS",
+		"isPreferred": true,
+		"countryId": 10157,
+		"preferredOrder": 2
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Seychelles",
+		"phoneCode": "248",
+		"countryCode": "SC",
+		"isPreferred": true,
+		"countryId": 10158,
+		"preferredOrder": 5
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Sierra Leone",
+		"phoneCode": "232",
+		"countryCode": "SL",
+		"isPreferred": true,
+		"countryId": 10159,
+		"preferredOrder": 0
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Singapore",
+		"phoneCode": "65",
+		"countryCode": "SG",
+		"isPreferred": false,
+		"countryId": 10160,
+		"preferredOrder": 2
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Slovakia",
+		"phoneCode": "421",
+		"countryCode": "SK",
+		"isPreferred": false,
+		"countryId": 10161,
+		"preferredOrder": 9
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Slovenia",
+		"phoneCode": "386",
+		"countryCode": "SI",
+		"isPreferred": false,
+		"countryId": 10162,
+		"preferredOrder": 5
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Solomon Islands",
+		"phoneCode": "677",
+		"countryCode": "SB",
+		"isPreferred": true,
+		"countryId": 10163,
+		"preferredOrder": 9
+	},
+	{
+		"isDefault": 0,
+		"countryName": "South Africa",
+		"phoneCode": "27",
+		"countryCode": "ZA",
+		"isPreferred": true,
+		"countryId": 10164,
+		"preferredOrder": 2
+	},
+	{
+		"isDefault": 0,
+		"countryName": "South Georgia and the South Sandwich Islands",
+		"phoneCode": "500",
+		"countryCode": "GS",
+		"isPreferred": true,
+		"countryId": 10165,
+		"preferredOrder": 9
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Spain",
+		"phoneCode": "34",
+		"countryCode": "ES",
+		"isPreferred": true,
+		"countryId": 10166,
+		"preferredOrder": 6
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Sri Lanka",
+		"phoneCode": "94",
+		"countryCode": "LK",
+		"isPreferred": false,
+		"countryId": 10167,
+		"preferredOrder": 7
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Sudan",
+		"phoneCode": "249",
+		"countryCode": "SD",
+		"isPreferred": false,
+		"countryId": 10168,
+		"preferredOrder": 3
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Suriname",
+		"phoneCode": "597",
+		"countryCode": "SR",
+		"isPreferred": false,
+		"countryId": 10169,
+		"preferredOrder": 0
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Swaziland",
+		"phoneCode": "268",
+		"countryCode": "SZ",
+		"isPreferred": false,
+		"countryId": 10170,
+		"preferredOrder": 8
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Sweden",
+		"phoneCode": "46",
+		"countryCode": "SE",
+		"isPreferred": false,
+		"countryId": 10171,
+		"preferredOrder": 6
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Switzerland",
+		"phoneCode": "41",
+		"countryCode": "CH",
+		"isPreferred": true,
+		"countryId": 10172,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Tajikistan",
+		"phoneCode": "992",
+		"countryCode": "TJ",
+		"isPreferred": false,
+		"countryId": 10173,
+		"preferredOrder": 8
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Thailand",
+		"phoneCode": "66",
+		"countryCode": "TH",
+		"isPreferred": true,
+		"countryId": 10174,
+		"preferredOrder": 6
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Togo",
+		"phoneCode": "228",
+		"countryCode": "TG",
+		"isPreferred": true,
+		"countryId": 10175,
+		"preferredOrder": 8
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Tokelau",
+		"phoneCode": "690",
+		"countryCode": "TK",
+		"isPreferred": false,
+		"countryId": 10176,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Tonga",
+		"phoneCode": "676",
+		"countryCode": "TO",
+		"isPreferred": true,
+		"countryId": 10177,
+		"preferredOrder": 7
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Trinidad and Tobago",
+		"phoneCode": "1868",
+		"countryCode": "TT",
+		"isPreferred": true,
+		"countryId": 10178,
+		"preferredOrder": 6
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Tunisia",
+		"phoneCode": "216",
+		"countryCode": "TN",
+		"isPreferred": false,
+		"countryId": 10179,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Turkey",
+		"phoneCode": "90",
+		"countryCode": "TR",
+		"isPreferred": true,
+		"countryId": 10180,
+		"preferredOrder": 5
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Turkmenistan",
+		"phoneCode": "993",
+		"countryCode": "TM",
+		"isPreferred": false,
+		"countryId": 10181,
+		"preferredOrder": 0
+	},
+	{
+		"countryName": "Turks and Caicos Islands",
+		"phoneCode": "1649",
+		"countryCode": "TC",
+		"isDefault": 0,
+		"isPreferred": true,
+		"countryId": 10182,
+		"preferredOrder": 2
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Tuvalu",
+		"phoneCode": "688",
+		"countryCode": "TV",
+		"isPreferred": true,
+		"countryId": 10183,
+		"preferredOrder": 2
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Uganda",
+		"phoneCode": "256",
+		"countryCode": "UG",
+		"isPreferred": false,
+		"countryId": 10184,
+		"preferredOrder": 6
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Ukraine",
+		"phoneCode": "380",
+		"countryCode": "UA",
+		"isPreferred": false,
+		"countryId": 10185,
+		"preferredOrder": 2
+	},
+	{
+		"isDefault": 0,
+		"countryName": "United Arab Emirates",
+		"phoneCode": "971",
+		"countryCode": "AE",
+		"isPreferred": false,
+		"countryId": 10186,
+		"preferredOrder": 6
+	},
+	{
+		"isDefault": 0,
+		"countryName": "United Kingdom",
+		"phoneCode": "44",
+		"countryCode": "GB",
+		"isPreferred": true,
+		"countryId": 10187,
+		"preferredOrder": 6
+	},
+	{
+		"isDefault": 0,
+		"countryName": "United States",
+		"phoneCode": "1",
+		"countryCode": "US",
+		"isPreferred": false,
+		"countryId": 10188,
+		"preferredOrder": 3
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Uruguay",
+		"phoneCode": "598",
+		"countryCode": "UY",
+		"isPreferred": true,
+		"countryId": 10189,
+		"preferredOrder": 9
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Uzbekistan",
+		"phoneCode": "998",
+		"countryCode": "UZ",
+		"isPreferred": false,
+		"countryId": 10190,
+		"preferredOrder": 9
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Vanuatu",
+		"phoneCode": "678",
+		"countryCode": "VU",
+		"isPreferred": false,
+		"countryId": 10191,
+		"preferredOrder": 6
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Wallis and Futuna",
+		"phoneCode": "681",
+		"countryCode": "WF",
+		"isPreferred": true,
+		"countryId": 10192,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Yemen",
+		"phoneCode": "967",
+		"countryCode": "YE",
+		"isPreferred": false,
+		"countryId": 10193,
+		"preferredOrder": 4
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Zambia",
+		"phoneCode": "260",
+		"countryCode": "ZM",
+		"isPreferred": false,
+		"countryId": 10194,
+		"preferredOrder": 7
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Zimbabwe",
+		"phoneCode": "263",
+		"countryCode": "ZW",
+		"isPreferred": true,
+		"countryId": 10195,
+		"preferredOrder": 7
+	},
+	{
+		"isDefault": 0,
+		"countryName": "land Islands",
+		"phoneCode": "",
+		"countryCode": "AX",
+		"isPreferred": true,
+		"countryId": 10196,
+		"preferredOrder": 4
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Antarctica",
+		"phoneCode": "",
+		"countryCode": "AQ",
+		"isPreferred": true,
+		"countryId": 10197,
+		"preferredOrder": 1
+	},
+	{
+		"countryName": "Bolivia, Plurinational State of",
+		"phoneCode": "591",
+		"countryCode": "BO",
+		"isDefault": 0,
+		"isPreferred": true,
+		"countryId": 10198,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Brunei Darussalam",
+		"phoneCode": "673",
+		"countryCode": "BN",
+		"isPreferred": true,
+		"countryId": 10199,
+		"preferredOrder": 2
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Cocos (Keeling) Islands",
+		"phoneCode": "61",
+		"countryCode": "CC",
+		"isPreferred": true,
+		"countryId": 10200,
+		"preferredOrder": 5
+	},
+	{
+		"countryName": "Congo, The Democratic Republic of the",
+		"phoneCode": "243",
+		"countryCode": "CD",
+		"isDefault": 0,
+		"isPreferred": false,
+		"countryId": 10201,
+		"preferredOrder": 4
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Cote d'Ivoire",
+		"phoneCode": "225",
+		"countryCode": "CI",
+		"isPreferred": false,
+		"countryId": 10202,
+		"preferredOrder": 4
+	},
+	{
+		"countryName": "Falkland Islands (Malvinas)",
+		"phoneCode": "500",
+		"countryCode": "FK",
+		"isDefault": 0,
+		"isPreferred": false,
+		"countryId": 10203,
+		"preferredOrder": 2
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Guernsey",
+		"phoneCode": "44",
+		"countryCode": "GG",
+		"isPreferred": true,
+		"countryId": 10204,
+		"preferredOrder": 5
+	},
+	{
+		"countryName": "Holy See (Vatican City State)",
+		"phoneCode": "379",
+		"countryCode": "VA",
+		"isDefault": 0,
+		"isPreferred": false,
+		"countryId": 10205,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Hong Kong",
+		"phoneCode": "852",
+		"countryCode": "HK",
+		"isPreferred": false,
+		"countryId": 10206,
+		"preferredOrder": 1
+	},
+	{
+		"countryName": "Iran, Islamic Republic of",
+		"phoneCode": "98",
+		"countryCode": "IR",
+		"isDefault": 0,
+		"isPreferred": true,
+		"countryId": 10207,
+		"preferredOrder": 9
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Isle of Man",
+		"phoneCode": "44",
+		"countryCode": "IM",
+		"isPreferred": true,
+		"countryId": 10208,
+		"preferredOrder": 9
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Jersey",
+		"phoneCode": "44",
+		"countryCode": "JE",
+		"isPreferred": false,
+		"countryId": 10209,
+		"preferredOrder": 4
+	},
+	{
+		"countryName": "Korea, Democratic People's Republic of",
+		"phoneCode": "850",
+		"countryCode": "KP",
+		"isDefault": 0,
+		"isPreferred": false,
+		"countryId": 10210,
+		"preferredOrder": 5
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Korea, Republic of",
+		"phoneCode": "82",
+		"countryCode": "KR",
+		"isPreferred": false,
+		"countryId": 10211,
+		"preferredOrder": 9
+	},
+	{
+		"countryName": "Lao People's Democratic Republic",
+		"phoneCode": "856",
+		"countryCode": "LA",
+		"isDefault": 0,
+		"isPreferred": true,
+		"countryId": 10212,
+		"preferredOrder": 5
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Libyan Arab Jamahiriya",
+		"phoneCode": "218",
+		"countryCode": "LY",
+		"isPreferred": false,
+		"countryId": 10213,
+		"preferredOrder": 6
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Macao",
+		"phoneCode": "853",
+		"countryCode": "MO",
+		"isPreferred": true,
+		"countryId": 10214,
+		"preferredOrder": 8
+	},
+	{
+		"countryName": "Macedonia, The Former Yugoslav Republic of",
+		"phoneCode": "389",
+		"countryCode": "MK",
+		"isDefault": 0,
+		"isPreferred": false,
+		"countryId": 10215,
+		"preferredOrder": 4
+	},
+	{
+		"countryName": "Micronesia, Federated States of",
+		"phoneCode": "691",
+		"countryCode": "FM",
+		"isDefault": 0,
+		"isPreferred": false,
+		"countryId": 10216,
+		"preferredOrder": 7
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Moldova, Republic of",
+		"phoneCode": "373",
+		"countryCode": "MD",
+		"isPreferred": false,
+		"countryId": 10217,
+		"preferredOrder": 9
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Mozambique",
+		"phoneCode": "258",
+		"countryCode": "MZ",
+		"isPreferred": false,
+		"countryId": 10218,
+		"preferredOrder": 7
+	},
+	{
+		"countryName": "Palestinian Territory, Occupied",
+		"phoneCode": "970",
+		"countryCode": "PS",
+		"isDefault": 0,
+		"isPreferred": false,
+		"countryId": 10219,
+		"preferredOrder": 6
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Pitcairn",
+		"phoneCode": "872",
+		"countryCode": "PN",
+		"isPreferred": false,
+		"countryId": 10220,
+		"preferredOrder": 9
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Réunion",
+		"phoneCode": "262",
+		"countryCode": "RE",
+		"isPreferred": true,
+		"countryId": 10221,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Russia",
+		"phoneCode": "7",
+		"countryCode": "RU",
+		"isPreferred": true,
+		"countryId": 10222,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Saint Barthélemy",
+		"phoneCode": "590",
+		"countryCode": "BL",
+		"isPreferred": false,
+		"countryId": 10223,
+		"preferredOrder": 8
+	},
+	{
+		"countryName": "Saint Helena, Ascension and Tristan Da Cunha",
+		"phoneCode": "290",
+		"countryCode": "SH",
+		"isDefault": 0,
+		"isPreferred": true,
+		"countryId": 10224,
+		"preferredOrder": 5
+	},
+	{
+		"countryName": "Saint Kitts and Nevis",
+		"phoneCode": "1869",
+		"countryCode": "KN",
+		"isDefault": 0,
+		"isPreferred": true,
+		"countryId": 10225,
+		"preferredOrder": 4
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Saint Lucia",
+		"phoneCode": "1758",
+		"countryCode": "LC",
+		"isPreferred": true,
+		"countryId": 10226,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Saint Martin",
+		"phoneCode": "590",
+		"countryCode": "MF",
+		"isPreferred": true,
+		"countryId": 10227,
+		"preferredOrder": 2
+	},
+	{
+		"countryName": "Saint Pierre and Miquelon",
+		"phoneCode": "508",
+		"countryCode": "PM",
+		"isDefault": 0,
+		"isPreferred": false,
+		"countryId": 10228,
+		"preferredOrder": 2
+	},
+	{
+		"countryName": "Saint Vincent and the Grenadines",
+		"phoneCode": "1784",
+		"countryCode": "VC",
+		"isDefault": 0,
+		"isPreferred": false,
+		"countryId": 10229,
+		"preferredOrder": 1
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Sao Tome and Principe",
+		"phoneCode": "239",
+		"countryCode": "ST",
+		"isPreferred": false,
+		"countryId": 10230,
+		"preferredOrder": 4
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Somalia",
+		"phoneCode": "252",
+		"countryCode": "SO",
+		"isPreferred": true,
+		"countryId": 10231,
+		"preferredOrder": 0
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Svalbard and Jan Mayen",
+		"phoneCode": "47",
+		"countryCode": "SJ",
+		"isPreferred": false,
+		"countryId": 10232,
+		"preferredOrder": 5
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Syrian Arab Republic",
+		"phoneCode": "963",
+		"countryCode": "SY",
+		"isPreferred": false,
+		"countryId": 10233,
+		"preferredOrder": 0
+	},
+	{
+		"countryName": "Taiwan, Province of China",
+		"phoneCode": "886",
+		"countryCode": "TW",
+		"isDefault": 0,
+		"isPreferred": true,
+		"countryId": 10234,
+		"preferredOrder": 0
+	},
+	{
+		"countryName": "Tanzania, United Republic of",
+		"phoneCode": "255",
+		"countryCode": "TZ",
+		"isDefault": 0,
+		"isPreferred": false,
+		"countryId": 10235,
+		"preferredOrder": 3
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Timor-Leste",
+		"phoneCode": "670",
+		"countryCode": "TL",
+		"isPreferred": false,
+		"countryId": 10236,
+		"preferredOrder": 4
+	},
+	{
+		"countryName": "Venezuela, Bolivarian Republic of",
+		"phoneCode": "58",
+		"countryCode": "VE",
+		"isDefault": 0,
+		"isPreferred": false,
+		"countryId": 10237,
+		"preferredOrder": 9
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Viet Nam",
+		"phoneCode": "84",
+		"countryCode": "VN",
+		"isPreferred": false,
+		"countryId": 10238,
+		"preferredOrder": 8
+	},
+	{
+		"countryName": "Virgin Islands, British",
+		"phoneCode": "1284",
+		"countryCode": "VG",
+		"isDefault": 0,
+		"isPreferred": true,
+		"countryId": 10239,
+		"preferredOrder": 5
+	},
+	{
+		"isDefault": 0,
+		"countryName": "Virgin Islands, U.S.",
+		"phoneCode": "1340",
+		"countryCode": "VI",
+		"isPreferred": false,
+		"countryId": 10240,
+		"preferredOrder": 8
+	}
+]

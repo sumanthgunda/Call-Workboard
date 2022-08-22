@@ -1,0 +1,8 @@
+{
+  "upcomingPastDueAmount": 363676.01,
+  "upcomingOpenAmount": 127230.83,
+  "upcomingCallingMinutes": 98,
+  "upcomingCustomerCount": 14,
+  "upcomingPastDueBucketDocumentCount": [69, 45, 41, 55, 0, 0],
+  "upcomingPastDueBucketDocumentAmount": [116481.0, 72845.0, 85743.01, 88607.0, 0.0, 0.0]
+}

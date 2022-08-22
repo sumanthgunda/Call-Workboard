@@ -1,0 +1,269 @@
+{
+  "0": {
+    "xs": {
+      "root": true,
+      "alignment": "vertical",
+      "height": "100%",
+      "width": "100%",
+      "spacing": "4",
+      "content": [
+        {
+          "height": "50%",
+          "width": "100%",
+          "alignment": "horizontal",
+          "content": [
+            {
+              "component": "first",
+              "width": "33.33%",
+              "height": "100%"
+            },
+            {
+              "component": "first",
+              "width": "33.33%",
+              "height": "100%"
+            },
+            {
+              "component": "first",
+              "width": "33.33%",
+              "height": "100%"
+            }
+          ]
+        },
+        {
+          "height": "50%",
+          "width": "100%",
+          "alignment": "horizontal",
+          "content": [
+            {
+              "component": "first",
+              "width": "33.33%",
+              "height": "100%"
+            },
+            {
+              "component": "first",
+              "width": "33.33%",
+              "height": "100%"
+            },
+            {
+              "component": "sixth",
+              "width": "33.33%",
+              "height": "100%"
+            }
+          ]
+        }
+      ]
+    },
+    "sm": {
+      "root": true,
+      "alignment": "vertical",
+      "height": "100%",
+      "width": "100%",
+      "spacing": "4",
+      "content": [
+        {
+          "height": "50%",
+          "width": "100%",
+          "alignment": "horizontal",
+          "content": [
+            {
+              "component": "first",
+              "width": "33.33%",
+              "height": "100%"
+            },
+            {
+              "component": "first",
+              "width": "33.33%",
+              "height": "100%"
+            },
+            {
+              "component": "first",
+              "width": "33.33%",
+              "height": "100%"
+            }
+          ]
+        },
+        {
+          "height": "50%",
+          "width": "100%",
+          "alignment": "horizontal",
+          "content": [
+            {
+              "component": "first",
+              "width": "33.33%",
+              "height": "100%"
+            },
+            {
+              "component": "first",
+              "width": "33.33%",
+              "height": "100%"
+            },
+            {
+              "component": "sixth",
+              "width": "33.33%",
+              "height": "100%"
+            }
+          ]
+        }
+      ]
+    },
+    "md": {
+      "root": true,
+      "alignment": "vertical",
+      "height": "100%",
+      "width": "100%",
+      "spacing": "8",
+      "content": [
+        {
+          "height": "50%",
+          "width": "100%",
+          "alignment": "horizontal",
+          "content": [
+            {
+              "component": "first",
+              "width": "33.33%",
+              "height": "100%"
+            },
+            {
+              "component": "first",
+              "width": "33.33%",
+              "height": "100%"
+            },
+            {
+              "component": "first",
+              "width": "33.33%",
+              "height": "100%"
+            }
+          ]
+        },
+        {
+          "height": "50%",
+          "width": "100%",
+          "alignment": "horizontal",
+          "content": [
+            {
+              "component": "first",
+              "width": "33.33%",
+              "height": "100%"
+            },
+            {
+              "component": "first",
+              "width": "33.33%",
+              "height": "100%"
+            },
+            {
+              "component": "sixth",
+              "width": "33.33%",
+              "height": "100%"
+            }
+          ]
+        }
+      ]
+    },
+    "lg": {
+      "root": true,
+      "alignment": "vertical",
+      "height": "100%",
+      "width": "100%",
+      "spacing": "10",
+      "content": [
+        {
+          "height": "50%",
+          "width": "100%",
+          "alignment": "horizontal",
+          "content": [
+            {
+              "component": "first",
+              "width": "33.33%",
+              "height": "100%"
+            },
+            {
+              "component": "first",
+              "width": "33.33%",
+              "height": "100%"
+            },
+            {
+              "component": "first",
+              "width": "33.33%",
+              "height": "100%"
+            }
+          ]
+        },
+        {
+          "height": "50%",
+          "width": "100%",
+          "alignment": "horizontal",
+          "content": [
+            {
+              "component": "first",
+              "width": "33.33%",
+              "height": "100%"
+            },
+            {
+              "component": "first",
+              "width": "33.33%",
+              "height": "100%"
+            },
+            {
+              "component": "sixth",
+              "width": "33.33%",
+              "height": "100%"
+            }
+          ]
+        }
+      ]
+    },
+    "xl": {
+      "root": true,
+      "alignment": "vertical",
+      "height": "100%",
+      "width": "100%",
+      "spacing": "14",
+      "content": [
+        {
+          "height": "50%",
+          "width": "100%",
+          "alignment": "horizontal",
+          "content": [
+            {
+              "component": "first",
+              "width": "33.33%",
+              "height": "100%"
+            },
+            {
+              "component": "first",
+              "width": "33.33%",
+              "height": "100%"
+            },
+            {
+              "component": "first",
+              "width": "33.33%",
+              "height": "100%"
+            }
+          ]
+        },
+        {
+          "height": "50%",
+          "width": "100%",
+          "alignment": "horizontal",
+          "content": [
+            {
+              "component": "first",
+              "width": "33.33%",
+              "height": "100%"
+            },
+            {
+              "component": "first",
+              "width": "33.33%",
+              "height": "100%"
+            },
+            {
+              "component": "sixth",
+              "width": "33.33%",
+              "height": "100%"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

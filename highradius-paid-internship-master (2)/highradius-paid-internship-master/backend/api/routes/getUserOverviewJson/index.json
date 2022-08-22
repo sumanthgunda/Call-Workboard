@@ -1,0 +1,14 @@
+{
+	"id": 54321,
+	"totalOpenAmount": 0.0,
+	"totalPastDueAmount": 405085.69,
+	"totalPastDueProcessed": 24491.0,
+	"expectedCallingMinutes": 52,
+	"completedCallingMinutes": 1,
+	"processedCustomerCount": 5,
+	"totalCustomerCount": 20,
+	"totalP2PCount": 0,
+	"totalP2PAmount": 0,
+	"pendingPastDueBucketDocumentCount": [],
+	"pendingPastDueBucketDocumentAmount": []
+}

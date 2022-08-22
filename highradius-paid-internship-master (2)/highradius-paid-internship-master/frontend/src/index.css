@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+html {
+  font-size: calc(0.75vh + 0.75vw);
+}
+
+.MuiCardContent-root:last-child {
+  padding-bottom: 0px !important;
+}
+
+.RecFlexGrid-row-95 {
+  margin-top: 0.3rem;
+}
+
+.MuiFab-root:hover {
+  background-color: #5daae0 !important;
+}
+
+.MuiMobileStepper-root {
+  background-color: transparent !important;
+}
+
+.MuiMobileStepper-dotActive {
+  background-color: #fc7500 !important;
+}
+
+.MuiTab-textColorPrimary {
+  color: #5daae0bf !important;
+}
+
+.MuiTab-textColorPrimary.Mui-selected {
+  color: #ffffffa6 !important;
+}
+
+@keyframes shine {
+  to {
+    background-position:
+       0 100%,
+       0 3rem
+  }
+}
+
+@keyframes shine1 {
+  to {
+    background-position:
+        100% 0,
+        0.5rem 0
+  }
+}
